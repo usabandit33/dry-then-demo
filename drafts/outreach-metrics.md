@@ -1,7 +1,7 @@
-# Dry Then Demo outreach metrics
+# Dry Then Demo metrics
 
-| Date | Touch | Company | To | Result |
-|------|-------|---------|----|--------|
-| 2026-09-15 | — | — | — | Pages not enabled; no T1 |
-
-Sent 0 · Bounce 0 · Reply 0 · Remove 0
+| Date | Touch | Company | Result |
+|------|-------|---------|--------|
+| 2026-09-15 | T1 | Dry Force | sent to info@dryforcecorp.com |
+| 2026-09-15 | T1 | Restore Serve | sent to info@restoreserverestoration.com |
+| 2026-09-15 | T1 | TWM Water Restoration | sent to Office@twmrestore.com |
