@@ -8,12 +8,12 @@ From: kaelnventures@gmail.com
 Sign: Matt M.
 
 ## Sequence
-Pages HTTP 200 as of 2026-09-15 night.
+Pages HTTP 200.
 
-T1 sent 2026-09-15:
-- Dry Force — 877-589-7504 — dryforcecorp.com — info@dryforcecorp.com — T2 ~09-18/19
-- Restore Serve — 214-838-7723 — restoreserverestoration.com — info@restoreserverestoration.com — T2 ~09-18/19
-- TWM Water Restoration — 214-225-0829 — twmrestore.com — Office@twmrestore.com — T2 ~09-18/19
+T1 sent 2026-09-15. T2 sent 2026-09-18:
+- Dry Force — 877-589-7504 — dryforcecorp.com — info@dryforcecorp.com — T3 ~09-22/25
+- Restore Serve — 214-838-7723 — restoreserverestoration.com — info@restoreserverestoration.com — T3 ~09-22/25
+- TWM Water Restoration — 214-225-0829 — twmrestore.com — Office@twmrestore.com — T3 ~09-22/25
 
 Hold (phone public, no confirmed inbox next to phone):
 - Texas Water and Fire — 214-894-6215
